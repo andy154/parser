@@ -1,0 +1,21 @@
+{
+  "name": "price-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "excel": "node excel"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.1.1",
+    "fs": "0.0.1-security",
+    "innertext": "^1.0.3",
+    "jsdom": "^16.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}

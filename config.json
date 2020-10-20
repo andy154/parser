@@ -1,0 +1,52 @@
+{
+  "getCount": false,
+  "outputFilePath": "data/",
+  "query_interval": 1500,
+  "add_random_interval": 750,
+  "categorys": [
+	{
+		"name": "Страйкбольное оружие",
+		"path": "/magazin/folder/straykbolnoye-oruzhiye"
+	},
+	{
+		"name": "Магазины и лоадеры",
+		"path": "/magazin/folder/magaziny"
+	},
+	{
+		"name": "Расходники",
+		"path": "/magazin/folder/raskhodniki"
+	},
+	{
+		"name": "Пиротехника",
+		"path": "/magazin/folder/pirotekhnika"
+	},
+	{
+		"name": "Ножи и мультитулы",
+		"path": "/magazin/folder/nozhi-i-multituly"
+	},
+	{
+		"name": "Средства защиты",
+		"path": "/magazin/folder/sredstva-zashchity"
+	},
+	{
+		"name": "Снаряжение",
+		"path": "/magazin/folder/snaryazheniye"
+	},
+	{
+		"name": "Электрика",
+		"path": "/magazin/folder/elektrika"
+	},
+	{
+		"name": "Внешние запчасти",
+		"path": "/magazin/folder/vneshniye-zapchasti"
+	},
+	{
+		"name": "Внутренние запчасти",
+		"path": "/magazin/folder/vnutrenniye-zapchasti"
+	},
+	{
+		"name": "Комиссионные товары",
+		"path": "/magazin/folder/komissionnye-tovary"
+	}
+  ]
+}
